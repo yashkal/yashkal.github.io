@@ -2,7 +2,7 @@ name: "yashkal.github.io"
 title: "My Blog"
 description: |
   My Blog
-output_dir: "."
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
